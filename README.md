@@ -1,4 +1,3 @@
-# manhdao
 <h1 align="center">Hi 👋, I'm Manh</h1>
 <h3 align="center">A aspiring fullstack developer from Sweden</h3>
 
