@@ -6,7 +6,6 @@
 
 - 📫 How to reach me **07mandao@skola.boras.se**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
